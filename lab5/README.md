@@ -1,1 +1,1 @@
-## lab5 local dns server
+# Lab5 local dns server
