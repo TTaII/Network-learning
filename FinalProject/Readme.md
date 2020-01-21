@@ -3,4 +3,4 @@
 + encapsulate ip packet to dns packet
 + pass by intermediate dns server
 # Usage
-[Usage.pdf](How to use it)
+[How to use it?](Usage.pdf)
