@@ -1,0 +1,1 @@
+python3 server.py --tun-addr=192.168.0.2 --tun-dstaddr=192.168.0.2 --remote-addr=$1
